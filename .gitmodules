@@ -1,0 +1,15 @@
+[submodule "repos/Finance-Education"]
+	path = repos/Finance-Education
+	url = https://github.com/engineerinvestor/Finance-Education.git
+[submodule "repos/fundamental-analysis-toolkit"]
+	path = repos/fundamental-analysis-toolkit
+	url = https://github.com/linusschulze-quant/fundamental-analysis-toolkit.git
+[submodule "repos/equity-research-lab"]
+	path = repos/equity-research-lab
+	url = https://github.com/mariasfondrini/equity-research-lab.git
+[submodule "repos/sellside-research-engine"]
+	path = repos/sellside-research-engine
+	url = https://github.com/DogInfantry/sellside-research-engine.git
+[submodule "repos/analyst-agent"]
+	path = repos/analyst-agent
+	url = https://github.com/jacob187/analyst-agent.git

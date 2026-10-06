@@ -1,0 +1,27 @@
+# Learner-specific records and local verification output
+/学习进度.md
+/repos/克隆核验.json
+/materials/Finance-Education-Windows/*.ipynb
+/reports/private/
+
+# Local dependencies, generated files, and credentials
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+.pytest_cache/
+*.log
+.DS_Store
+Thumbs.db
+
+# Only the five declared upstream repositories belong in repos.
+/repos/*
+!/repos/Finance-Education/
+!/repos/fundamental-analysis-toolkit/
+!/repos/equity-research-lab/
+!/repos/sellside-research-engine/
+!/repos/analyst-agent/

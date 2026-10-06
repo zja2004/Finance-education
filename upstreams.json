@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "verified_date": "2026-10-06",
+  "repositories": [
+    {
+      "name": "Finance-Education",
+      "url": "https://github.com/engineerinvestor/Finance-Education.git",
+      "commit": "63a6ea4597f7967ad70821748a3af6bb76a15062",
+      "license": null,
+      "windows_excluded_paths": [
+        "Portfolio_Switch_When_Does_it_Pay_Off?_A_Break_Even_Analysis.ipynb"
+      ]
+    },
+    {
+      "name": "fundamental-analysis-toolkit",
+      "url": "https://github.com/linusschulze-quant/fundamental-analysis-toolkit.git",
+      "commit": "94488b6e05477efbe735c4a2f0d75677b02277bb",
+      "license": null
+    },
+    {
+      "name": "equity-research-lab",
+      "url": "https://github.com/mariasfondrini/equity-research-lab.git",
+      "commit": "29f5b1daf4b55dc6c630c95952e02cd5123ac96e",
+      "license": "MIT"
+    },
+    {
+      "name": "sellside-research-engine",
+      "url": "https://github.com/DogInfantry/sellside-research-engine.git",
+      "commit": "ff3ea71b86d0ecfe924e4a1ecaf5f4917cf8b2d8",
+      "license": "Apache-2.0"
+    },
+    {
+      "name": "analyst-agent",
+      "url": "https://github.com/jacob187/analyst-agent.git",
+      "commit": "95b6d5f2b82d08d06b8a23172d00c30704aed73b",
+      "license": "MIT"
+    }
+  ],
+  "compatibility_copy": {
+    "repository": "Finance-Education",
+    "source_path": "Portfolio_Switch_When_Does_it_Pay_Off?_A_Break_Even_Analysis.ipynb",
+    "destination": "materials/Finance-Education-Windows/Portfolio_Switch_When_Does_it_Pay_Off_A_Break_Even_Analysis.ipynb",
+    "sha256": "87c10289c46908fc5aa1d6cf7f24e16528166b5b098192c1b55a23e706e118ef"
+  }
+}
